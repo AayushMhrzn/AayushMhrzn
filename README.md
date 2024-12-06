@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AayushMhrzn
 - 🌱 I’m currently studying COMPUTER ENGINEERING ...
-- 📫 follow me on insta @aayush.mhrzn
 
 
 <!---

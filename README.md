@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AayushMhrzn
+- 👋 Hi, I’m Aayush Maharjan
 - 🌱 I’m currently studying COMPUTER ENGINEERING ...
 
 

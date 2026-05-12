@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aayush Maharjan
-- 🌱 I’m currently studying COMPUTER ENGINEERING ...
+- 🌱 Computer Engineer - AI | Machine Learning | Deep Learning | Computer Vision | LLMs
 
 
 <!---
